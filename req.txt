@@ -1,0 +1,11 @@
+# requirements.txt
+pandas
+sentence-transformers
+faiss-cpu
+ragas
+streamlit
+python-dotenv
+openai
+langchain-openai
+langchain-community
+datasets
